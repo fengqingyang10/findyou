@@ -1,0 +1,24 @@
+# Android specific files
+
+# built application files
+*.apk
+*.ap_ 
+
+# Java class files
+*.class
+
+# Java JAR files
+*.jar
+*.war
+*.nar
+
+# Gradle files
+.gradle/
+build/
+
+# Local configuration file (local.properties)
+local.properties
+
+# OS specific files
+.DS_Store
+Thumbs.db
